@@ -1,6 +1,7 @@
 # mufiles97d
 Mu Server 97d DarkSteam
 [Beta 41 Changelog]
+
 Tweaked drop system with ability to use -1 for random skill/luck/add/exc options
 Added ability to allow specific characters/symbols in character and guild names
 DecreaseElfArrows is now InfiniteElfArrows
@@ -9,21 +10,25 @@ Added ability to clear player skills when resetting
 Event manager now respects the year column
 
 [Beta 40.1 Changelog]
+
 Fixed an error in the GoldenArcher.txt file
 Golden Archer is now enabled by default
 Small corrections
 
 [Beta 40 Changelog]
+
 Added ability to include grand reset points when resetting
 Added Golden Archer system
 Added ability to change max item level
 Added ability to change item duration on the floor
 
 [Beta 39.1 Changelog]
+
 Fixed reset & grand reset systems not working properly
 Fixed /skin, /pet and /tracemarry blocked ids/maps
 
 [Beta 39 Changelog]
+
 Added ability to reload most of the customs using /reload 3
 Added Dynamic Exp System
 Quest system now supports all monsters
@@ -32,6 +37,7 @@ Fixed Sky Event pvp before event start
 Fixed dupe bug
 
 [Beta 38 Changelog]
+
 Added /resetskills command
 Added Lucky Mixes event
 Experience calculation tweaked
