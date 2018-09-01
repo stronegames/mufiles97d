@@ -1,0 +1,32 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\MuOnline]
+"Driver"="c:\\WINNT\\System32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="MuOnline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\MuOnlineJoinDB]
+"Driver"="c:\\WINNT\\System32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="MuOnline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\USELOG]
+"Driver"="c:\\WINNT\\System32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="MuOnline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\ODBC Data Sources]
+"MuOnline"="SQL Server"
+"MuOnlineJoinDB"="SQL Server"
+"USELOG"="SQL Server"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\ODBC File DSN]
+"DefaultDSNDir"="C:\\Program Files\\Common Files\\ODBC\\Data Sources"
